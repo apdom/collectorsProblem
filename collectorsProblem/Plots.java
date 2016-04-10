@@ -34,12 +34,6 @@
   *		Q) Can the analysis be generalized to any dimension d?
   */
 
-
-// TO DO:
-// Clean up R file to add the plots
-// clean up directory by getting rid of the python file
-// Make a new GitHub and push these files to it!
-
 import java.io.File;
 import java.io.IOException;
 import java.io.BufferedWriter;
